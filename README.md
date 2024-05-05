@@ -83,10 +83,11 @@ return 0;
 
 ## OUTPUT:
 # i) FILECOPYING:
-![alt text](flcp.png)
+![image](https://github.com/Gokhulraj2005/Linux-File-IO-Systems-locking/assets/138849253/77630930-776d-475e-a2ab-c88db2aebff0)
+
 
 # ii) FILELOCKING:
-![alt text](lock.c.png)
+![image](https://github.com/Gokhulraj2005/Linux-File-IO-Systems-locking/assets/138849253/692bf765-939c-4f30-8483-570e75fcf883)
 
 # RESULT:
 The programs are executed successfully.
